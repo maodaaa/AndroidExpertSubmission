@@ -1,5 +1,7 @@
 # Movie Mobile Application
 
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/maodaaa/AndroidExpertSubmission/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/maodaaa/AndroidExpertSubmission/tree/master)
+
 ## Continuous Integration (CI)
 
 - Implemented CI using GitHub Actions for automated testing and successful APK builds.
