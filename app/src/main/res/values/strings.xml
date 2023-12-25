@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidExpertC1</string>
+    <string name="title_activity_favorite">FavoriteActivity</string>
+    <string name="title_favorites">Favorites</string>
+</resources>
